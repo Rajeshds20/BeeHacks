@@ -2,6 +2,13 @@
 
 BeeHacks is a website developed for the BeeHacks hackathon. It allows users to register for the event and pay the registration fee using RazorPay API.
 
+![Beehacks_logo_mini](https://user-images.githubusercontent.com/104376917/230762663-c58ed033-a9b4-4b82-a91d-8b8fe8bb47a8.png)
+
+
+![Beehacks_Text](https://user-images.githubusercontent.com/104376917/230762624-3f4bc1dd-a02f-4d29-a46e-1ffa33e02466.png)
+
+
+
 ## Technologies Used
 
 - HTML
