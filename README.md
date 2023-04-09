@@ -26,8 +26,9 @@ BeeHacks is a website developed for the BeeHacks hackathon. It allows users to r
 2. Navigate to the project directory: `cd beehacks`
 3. Open the `index.html` file in your web browser to view the website.
 
-
-![Beehacks_logo_mini](https://user-images.githubusercontent.com/104376917/230762663-c58ed033-a9b4-4b82-a91d-8b8fe8bb47a8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104376917/230762663-c58ed033-a9b4-4b82-a91d-8b8fe8bb47a8.png" alt="Beehacks_logo_mini">
+</p>
 
 
 ## Registration
